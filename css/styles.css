@@ -71,9 +71,9 @@ body.toggle .grid * {
   z-index: 1;
 }
 .card {
-  background-color: rgb(50 71 59 / 43%);
+  background: linear-gradient(360deg, #37433187 75%, #ffc45394 70%);
   box-shadow: 0px var(--card-box-shadow-1-y) var(--card-box-shadow-1-blur) var(--card-box-shadow-1), 0px var(--card-box-shadow-2-y) var(--card-box-shadow-2-blur) var(--card-box-shadow-2), 0 0 0 1px var(--card-border-color);
-  padding: 56px 16px 16px 16px;
+  padding: 5px 16px 16px 16px;
   border-radius: 15px;
   cursor: pointer;
   position: relative;
@@ -133,6 +133,7 @@ body.toggle .grid * {
   position: relative;
   font-weight: 600;
   line-height: 2;
+  text-transform: uppercase;
 }
 
 .card p {
