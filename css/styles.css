@@ -1,5 +1,5 @@
 body {
-  --background-color: #18181b;
+  --background-color: #303c39;
   --text-color: #a1a1aa;
   --card-background-color: rgba(255, 255, 255, .015);
   --card-border-color: rgba(255, 255, 255, 0.1);
@@ -121,6 +121,10 @@ body.toggle .grid * {
   font-size: 14px;
   line-height: 2;
   color: var(--card-label-color);
+}
+
+#link {
+  color: cadetblue;
 }
 
 .h2 {
