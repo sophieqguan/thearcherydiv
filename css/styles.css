@@ -112,7 +112,7 @@ body.toggle .grid * {
   color: var(--card-icon-color);
   transition: color 0.25s;
 }
-.card h4 h2 {
+.card h4 h1{
   z-index: 2;
   position: relative;
   margin: 12px 0 4px 0;
@@ -122,6 +122,15 @@ body.toggle .grid * {
   line-height: 2;
   color: var(--card-label-color);
 }
+
+.h2 {
+  color: white;
+  z-index: 2;
+  position: relative;
+  font-weight: 600;
+  line-height: 2;
+}
+
 .card p {
   z-index: 2;
   position: relative;
