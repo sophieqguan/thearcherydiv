@@ -70,6 +70,12 @@ body.toggle .grid * {
   position: relative;
   z-index: 1;
 }
+
+::selection {
+  background: #b1914e;
+    color: white;
+}
+
 .card {
   background: linear-gradient(360deg, #37433187 75%, #ffc45394 70%);
   box-shadow: 0px var(--card-box-shadow-1-y) var(--card-box-shadow-1-blur) var(--card-box-shadow-1), 0px var(--card-box-shadow-2-y) var(--card-box-shadow-2-blur) var(--card-box-shadow-2), 0 0 0 1px var(--card-border-color);
