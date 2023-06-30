@@ -1,6 +1,4 @@
-# Drop landing page demo
+# UCSB Archery Division Webpage
 
-Demo site to be used for [Netlify Drop](https://app.netlify.com/drop).
-
-Thanks to [Andy Bell](https://piccalil.li/) for [User-controlled light/dark mode](https://piccalil.li/tutorial/create-a-user-controlled-dark-or-light-mode/) and [Rasmus Andersson](https://twitter.com/rsms) for creating [Inter UI font](https://rsms.me/inter/).
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89b3cc0a-46d4-4f9b-94e2-c459292afe8e/deploy-status)](https://app.netlify.com/sites/thearcherydivision/deploys) 
+thearcherydivision.netlify.app
